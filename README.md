@@ -63,3 +63,8 @@ ChatBot Move Assignment Operator
 ChatBot Destructor
 ChatBot Destructor 
 ```
+
+# Note
+
+This is the same like the repository Chatbot-Memory-Management but shows the project folder hierarchy.
+
